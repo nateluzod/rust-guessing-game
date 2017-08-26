@@ -1,4 +1,4 @@
-![rustlogo](https://www.rust-lang.org/logos/rust-logo-512x512-blk.png)
+![rustlogo](https://www.rust-lang.org/logos/rust-logo-256x256-blk.png)
 
 # Guessing Game
 
